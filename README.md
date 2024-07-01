@@ -4,7 +4,7 @@
 
 Contents of the file:
  
-  Cats and Dogs:
+  Cats and Dogs :
   
     1. Train file
    
